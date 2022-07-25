@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&family=Dosis:wght@500&family=Gamja+Flower&family=Handlee&family=Neucha&family=Patrick+Hand&family=Sedgwick+Ave&family=Shadows+Into+Light&family=The+Girl+Next+Door&family=Varela+Round&display=swap');
+
+header, .colors, .fonts {
+   font-family: "Varela Round";
+   text-align: center;
+}
+
+.colors, .fonts, .styles {
+   border: 4px dotted rgb(78, 78, 78);
+   margin-bottom: 50px;
+   margin-right: 5%;
+   margin-left: 5%;
+   border-radius: 30px;
+}
+
+.colors p{
+   text-align: center;
+   width: 70%;
+   padding: 50px;
+   margin: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   border-radius: 50px; 
+   font-family: "Comic Neue";
+}
+
+.fonts h2, .colors h2 {
+   color: rgb(78, 78, 78);
+   text-decoration: underline;
+}
+
+#lightblue {
+   background-color: #aac5f0;
+   border: 3px solid #7a8dac;
+   color: #495467;
+}
+#lightpink {
+   background-color: #f790bb;
+   border: 3px solid #c57395;
+   color: #8d526b;
+}
+#lightyellow {
+   background-color: #fff59d;
+   border: 3px solid #ccc47d;
+   color: #8e8957;
+}
+#lightpurple {
+   background-color: #c4a4f9;
+   border: 3px  solid #9c83c7;
+   color: #6d5b8b;
+}
+#lightgreen {
+   background-color: #b9db92;
+   border: 3px  solid #94af74;
+   color: #586945;
+}
+
+.fonts p {
+   margin-bottom: 40px;
+   color: rgb(78, 78, 78);
+}
+
+span {
+   color: black;
+   text-decoration: underline;
+}
+
+#dosis p{
+   font-family: "Dosis";
+}
+#shadows {
+   font-family: "Shadows Into Light";
+}
+#varela {
+   font-family: "Varela Round";
+}
+#patrick {
+   font-family: "Patrick Hand";
+}
+#neucha {
+   font-family: "Neucha";
+}
+#handlee {
+   font-family: "Handlee";
+}
+#comic {
+   font-family: "Comic Neue";
+}
+#sedgwick {
+   font-family: "Sedgwic Ave";
+}
+#girl {
+   font-family: "The Girl Next Door";
+}
+#gamja {
+   font-family: "Gamja Flower";
+}
+
+.styles {
+   text-align: center;
+}
+
+#textheader {
+   text-decoration: underline;
+   font-family: "Varela Round";
+   color: rgb(78, 78, 78);
+}
+
+.styles .arial {
+   font-family: sans-serif;
+   color: rgb(78, 78, 78);
+}
